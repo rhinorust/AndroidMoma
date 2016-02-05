@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="application_name">MoMa</string>
+    <string name="mapboxAccessToken">pk.eyJ1IjoicmFrYXZ5IiwiYSI6ImNpazZmczdwczAwcjJxNmtzYWU2c3I5NnkifQ.-ih0FkNZlRDHPHQAyowiSA</string>
+</resources>

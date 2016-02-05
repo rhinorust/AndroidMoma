@@ -1,9 +1,4 @@
-﻿using System;
-using Android.Content;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
-using Android.OS;
+﻿using Android.OS;
 using Android.App;
 using Mapbox.Views;
 using Mapbox.Annotations;
@@ -21,7 +16,7 @@ using Mapbox.Geometry;
 
 namespace MomaAndroid
 {
-    [Activity(Label = "MomaAndroid", MainLauncher = true)]
+    [Activity(Label = "MomaAndroid")]
     public class MapViewer : Activity
     {
         MapView mapView;
